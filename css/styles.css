@@ -1,0 +1,17 @@
+p{
+font-size: 25px;
+  color: orange;
+}
+a{
+  padding: 30px;
+  margin: 60px;
+}
+h1.Tropical{
+  color: #f7325e;
+  font-family: fantasy;
+}
+h1.popular{
+  font-stretch: expanded;
+  font-weight: 300;
+
+}
